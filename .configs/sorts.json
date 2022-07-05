@@ -1,11 +1,11 @@
 {
-  "" : [
-    "2022-07-05.md"
-  ],
-  "__raw_positions" : {
-    "2022-07-05.md" : 1
-  },
   "__positions" : {
-    "2022-07-05.md" : 1
-  }
+    "demo.md" : 1
+  },
+  "__raw_positions" : {
+    "demo.md" : 1
+  },
+  "" : [
+    "demo.md"
+  ]
 }
