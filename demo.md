@@ -3,6 +3,7 @@ title: demo
 date: 2022-07-05 23:44
 ---
 图片测试
-![](/_image/2022-07-05/71e5d47dc478a27907526762b10d8fb3.jpg?r=62)
-# w
+![](/_image/2022-07-05/bb5f38c11619188f1c4f438ed9652b3b.jpg?r=34)
 
+# w
+![Markdown](https://markdown.tw/images/208x128.png)
